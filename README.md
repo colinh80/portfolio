@@ -8,7 +8,7 @@ This portfolio contains four projects displaying my abilities in R, Python, SQL 
 
 Implementation of predictive models to determine if the sample tested from a body of water is fit for human consumption. This project includes exploratory analysis, data cleaning, preprocessing, and execution of KNN and Random Forest models for comparison.
 
-###### [Data Source](https://www.kaggle.com/adityakadiwal/water-potability)
+###### [Data Source] (https://www.kaggle.com/adityakadiwal/water-potability)
 
 * 1
 * 2
