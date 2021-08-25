@@ -1,9 +1,9 @@
 # Colin Hicks
-## [Data Science Portfolio](https://colinjhicks.github.io/colinhicks_portfolio/)
+## Data Science Portfolio
 
 This contains four projects displaying my abilities in R, Python, SQL and  Tableau. I also contain skills in Excel and am proficient in design tools from the Adobe Creative Cloud. I'm currently looking for employment to furthering my skills in the Data Science feild.
 
-### [Predictive Modeling in R]()
+### [Predictive Modeling in R] (https://github.com/colinjhicks/fitbit_data_analysis)
 
 #### Summary
 
@@ -15,7 +15,7 @@ Implementation of predictive models to determine if the sample tested from a bod
 * 2
 * 3
 
-### Data Analysis in Python
+### [Data Analysis in Python]
 
 #### Summary
 
