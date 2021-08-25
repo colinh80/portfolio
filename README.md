@@ -1,9 +1,8 @@
-# Colin Hicks
-## Data Science Portfolio
+# Colin Hicks | Data Science Portfolio
 
-This contains four projects displaying my abilities in R, Python, SQL and  Tableau. I also contain skills in Excel and am proficient in design tools from the Adobe Creative Cloud. I'm currently looking for employment to furthering my skills in the Data Science feild.
+This portfolio contains four projects displaying my abilities in R, Python, SQL and  Tableau. I also contain skills in Excel and am proficient in design tools from the Adobe Creative Cloud. I'm currently looking for employment to furthering my skills in the Data Science feild.
 
-### [Predictive Modeling in R] 
+### [Predictive Modeling in R] (https://github.com/colinjhicks/water_potability_prediction)
 
 #### Summary
 
