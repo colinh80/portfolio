@@ -4,11 +4,11 @@ This portfolio contains four projects displaying my abilities in R, Python, SQL 
 
 ### [Predictive Modeling in R](https://github.com/colinjhicks/water_potability_prediction)
 
+###### [Data Source](https://www.kaggle.com/adityakadiwal/water-potability)
+
 #### Summary
 
 Implementation of predictive models to determine if the sample tested from a body of water is fit for human consumption. This project includes exploratory analysis, data cleaning, preprocessing, and execution of KNN and Random Forest models for comparison.
-
-###### [Data Source](https://www.kaggle.com/adityakadiwal/water-potability)
 
 * exploratory analysis
   * box plots
@@ -26,11 +26,11 @@ Implementation of predictive models to determine if the sample tested from a bod
 
 ### [Data Analysis in Python](https://github.com/colinjhicks/fitbit_data_analysis)
 
+###### [Data Source](https://www.kaggle.com/arashnic/fitbit)
+
 #### Summary
 
 Exploratory analysis on multiple related datasets that include samples of wearable health data a Fitbit device. This project includes cleaning and various visuals such as a correlation matrix and regression plots.
-
-###### [Data Source](https://www.kaggle.com/arashnic/fitbit)
 
 * format datetime columns
 * summarize each dataset 
@@ -42,11 +42,11 @@ Exploratory analysis on multiple related datasets that include samples of wearab
 
 ### [Data Cleaning in SQL](https://github.com/colinjhicks/craigslist_data_exploration)
 
+###### [Data Source](https://www.kaggle.com/austinreese/craigslist-carstrucks-data)
+
 #### Summary
 
 Using MySQL queries to clean and explore a Kaggle dataset that was created by scraping vehicle postings from Craigslist over a month period. This project includes views for later visualization in Tableau Public.
-
-###### [Data Source](https://www.kaggle.com/austinreese/craigslist-carstrucks-data)
 
 * observe data
 * concat columns
@@ -56,11 +56,11 @@ Using MySQL queries to clean and explore a Kaggle dataset that was created by sc
 
 ### [Visualization in Tableau](https://public.tableau.com/app/profile/colin.hicks)
 
+###### [Data Source](https://www.kaggle.com/austinreese/craigslist-carstrucks-data)
+
 #### Summary
 
 This is an extension of my 'Data Cleaning in SQL' project where I use Tableau Public to visualize a number of views over four dashboards. This will link to my Tableau profile where I have saved the dashboards related to the project.
-
-###### [Data Source](https://www.kaggle.com/austinreese/craigslist-carstrucks-data)
 
 * geographical heat map
 * bar graphs for value counts and averages
