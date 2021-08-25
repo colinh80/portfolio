@@ -17,8 +17,7 @@ Implementation of predictive models to determine if the sample tested from a bod
 * preprocessing
   * outlier correction
   * partition the data into train and test
-  * normalize
-  * 
+  * normalize train and test sets
 * run predictive models
   * knn
   * random forest
@@ -59,10 +58,10 @@ Using MySQL queries to clean and explore a Kaggle dataset that was created by sc
 
 #### Summary
 
-This is an extension of my Data Cleaning in SQL project where I use Tableau Public to visualize a number of views over four dashboards. This will link to my Tableau profile where I have saved the dashboards related to the project.
+This is an extension of my 'Data Cleaning in SQL' project where I use Tableau Public to visualize a number of views over four dashboards. This will link to my Tableau profile where I have saved the dashboards related to the project.
 
 ###### [Data Source](https://www.kaggle.com/austinreese/craigslist-carstrucks-data)
 
-* Geographical Heat map
-* Bar graphs for value counts and averages
-* Time series line graphs
+* geographical heat map
+* bar graphs for value counts and averages
+* time series line graphs
