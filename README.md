@@ -2,7 +2,6 @@
 
 This portfolio contains four projects displaying my abilities in R, Python, SQL and  Tableau. I also contain skills in Excel and am proficient in design tools from the Adobe Creative Cloud. I'm currently looking for employment to furthering my skills in the Data Science feild.
 
-https://github.com/colinjhicks/water_potability_prediction - automatic!
 ### [Predictive Modeling in R](https://github.com/colinjhicks/water_potability_prediction)
 
 #### Summary
@@ -11,9 +10,20 @@ Implementation of predictive models to determine if the sample tested from a bod
 
 ###### [Data Source](https://www.kaggle.com/adityakadiwal/water-potability)
 
-* 1
-* 2
-* 3
+* exploratory analysis
+  * box plots
+  * correlation matrix
+  * distribution plots 
+* preprocessing
+  * outlier correction
+  * partition the data into train and test
+  * normalize
+  * 
+* run predictive models
+  * knn
+  * random forest
+  * observe confusion matrix for each model
+  * observe feature importance for each model
 
 ### [Data Analysis in Python](https://github.com/colinjhicks/fitbit_data_analysis)
 
@@ -23,9 +33,12 @@ Exploratory analysis on multiple related datasets that include samples of wearab
 
 ###### [Data Source](https://www.kaggle.com/arashnic/fitbit)
 
-* 1
-* 2
-* 3
+* format datetime columns
+* summarize each dataset 
+* merge datasets
+* correlation matrix for merged dataset
+* regression plots
+* time series bar graph
 
 
 ### [Data Cleaning in SQL](https://github.com/colinjhicks/craigslist_data_exploration)
@@ -36,9 +49,11 @@ Using MySQL queries to clean and explore a Kaggle dataset that was created by sc
 
 ###### [Data Source](https://www.kaggle.com/austinreese/craigslist-carstrucks-data)
 
-* 1
-* 2
-* 3
+* observe data
+* concat columns
+* replace characters in strings
+* delete duplicate values
+* create views
 
 ### [Visualization in Tableau](https://public.tableau.com/app/profile/colin.hicks)
 
@@ -51,4 +66,3 @@ This is an extension of my Data Cleaning in SQL project where I use Tableau Publ
 * Geographical Heat map
 * Bar graphs for value counts and averages
 * Time series line graphs
-* 3
