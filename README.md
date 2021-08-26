@@ -19,8 +19,7 @@ Implementation of predictive models to determine if the sample tested from a bod
   * partition the data into train and test
   * normalize train and test sets
 * perform predictive models
-  * knn
-  * random forest
+  * knn/random forest
   * observe confusion matrix for each model
   * observe feature importance for each model
 
