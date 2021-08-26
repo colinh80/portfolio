@@ -18,7 +18,7 @@ Implementation of predictive models to determine if the sample tested from a bod
   * outlier correction
   * partition the data into train and test
   * normalize train and test sets
-* run predictive models
+* perform predictive models
   * knn
   * random forest
   * observe confusion matrix for each model
@@ -63,5 +63,6 @@ Using MySQL queries to clean and explore a Kaggle dataset that was created by sc
 This is an extension of my 'Data Cleaning in SQL' project where I use Tableau Public to visualize a number of views over four dashboards. This will link to my Tableau profile where I have saved the dashboards related to the project.
 
 * geographical heat map
+* correlation plots
 * bar graphs for value counts and averages
 * time series line graphs
